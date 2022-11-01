@@ -1,0 +1,39 @@
+Heading
+<h1> </h1>
+Heeading mdn
+w3 schools
+devdocs.io 
+
+Space 
+<br> 
+self closing tag 
+devdocs.io
+
+two horizontal lines
+start and end
+<hr>
+<hr>
+size
+<hr size=''3'' noshade>
+
+final taskk
+<center
+</center>
+
+Final:
+
+<center>
+<hr size=''3'' noshade>
+<h1> THE ADVENTURES OF <brSHERLOCK HOLMES</h1>
+<br>
+<h3>by</h3>
+<br>
+<h2>SIR ARTHUR CONAN DOYLE</h2>
+<hr size=''3'' noshade>
+</center>
+
+comments
+<!-- djfhsdkf-->
+
+html
+docs.emmet.io
